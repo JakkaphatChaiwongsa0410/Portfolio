@@ -1,6 +1,6 @@
 # Hi there, I'm Jakkaphat Chaiwongsa! 👋
 
-![Alt text](download.jpg)
+![Alt text](53ca75bf-c173-4ddd-ae44-19e44ac7a90f.jpg)
 
 I'm a dedicated undergraduate college student passionate about technology and software development. With a foundation in both backend and frontend technologies, I enjoy building efficient, scalable, and user-friendly applications.
 
